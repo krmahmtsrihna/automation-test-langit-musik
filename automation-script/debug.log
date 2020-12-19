@@ -508,3 +508,4 @@
 [1218/125537.864:ERROR:exception_snapshot_win.cc(99)] thread ID 828 not found in process
 [1218/125537.914:ERROR:process_reader_win.cc(123)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
 [1218/125537.914:ERROR:exception_snapshot_win.cc(99)] thread ID 19888 not found in process
+[1219/182934.334:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
